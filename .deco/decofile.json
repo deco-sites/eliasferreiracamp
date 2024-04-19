@@ -3428,7 +3428,7 @@
           "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/7485/5441a039-8620-4ce7-b290-0608bfd78f8d",
           "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/7485/f117a77e-b6f2-4333-872d-06280b11db7f"
         ],
-        "showQuantity": 3
+        "showQuantity": 2
       }
     ],
     "__resolveType": "website/pages/Page.tsx"
